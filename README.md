@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-29-2014/K2I5ui.gif">
 
 - 🔭 I’m currently working on **my own website**
-
+- 🌱 Check out my most recent project **<a href="https://github.com/jerryluo11/staake-limbo">Staake Limbo</a>**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jerryluo-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerryluo-" height="30" width="40" /></a>
